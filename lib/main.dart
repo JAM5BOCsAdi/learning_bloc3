@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         title: const Center(
           child: Text('My App'),
         ),
-        ),
+      ),
     );
   }
 }
