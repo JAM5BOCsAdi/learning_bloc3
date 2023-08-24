@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:learning_bloc3/views/home_page.dart';
 
 void main() {
   runApp(
@@ -7,22 +8,7 @@ void main() {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyApp(),
+      home: const HomePage(),
     ),
   );
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Center(
-          child: Text('My App'),
-        ),
-      ),
-    );
-  }
 }
