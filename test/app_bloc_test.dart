@@ -72,6 +72,7 @@ void main() {
     ],
   );
 
+  /// Test the ability to load more than one URL
   blocTest<AppBloc, AppState>(
     'Test the ability to load more than one URL',
     build: () => AppBloc(
