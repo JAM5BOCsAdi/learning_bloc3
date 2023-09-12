@@ -1,8 +1,14 @@
 <h1>learning_bloc3</h1>
 
-<p>A new Flutter project.</p>
+<p>A MultiBlocProvider app and created a README.md file for a base</p>
 
 <h2>Images</h2>
+<p>For uploading images I created a folder [images] inside the project (VSCode) and dragged the images there and made a git commit and push to the repo.</p>
+
+<p>After that I opened each image to see the URL like this: <a href ="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg">https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg</a></p>
+
+<p>To get these images go inside: .../lib/images/img1.jpg</p>
+<p>And Copy the URL in the browser and paste it in the <span>img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg"</span>
 
 <p>First image</p>
 <img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg" alt="Preview of Image 1">
