@@ -8,7 +8,7 @@
 <p>After that I opened each image to see the URL like this: <a href ="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png">https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png</a></p>
 
 <p>To get these images go inside: .../lib/images/img1.jpg</p>
-<p>And Copy the URL in the browser and paste it in the <span>img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg"</span>
+<p>And Copy the URL in the browser and paste it in the <strong>img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg"</strong>
 
 <p id="img1">First image</p>
 <img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png" alt="Preview of Image 1">
