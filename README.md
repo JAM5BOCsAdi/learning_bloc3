@@ -3,6 +3,7 @@
 <p>A MultiBlocProvider app and created a README.md file for a base</p>
 
 <h2>Images</h2>
+<h3>Upload Images</h3>
 <p>For uploading images I created a <a href ="#img1">folder [images]</a> inside the project (VSCode) and dragged the images there and made a git commit and push to the repo.</p>
 
 <p>After that I opened each image to see the URL like this: <a href ="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png">https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png</a></p>
