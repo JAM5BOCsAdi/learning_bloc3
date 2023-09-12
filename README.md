@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## Images
+
+First image
+![Preview](lib\images\img1.jpg)
+
+Second image
+![Preview](lib\images\img2.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
