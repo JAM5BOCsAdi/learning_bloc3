@@ -1,24 +1,24 @@
-# learning_bloc3
+<h1>learning_bloc3</h1>
 
-A new Flutter project.
+<p>A new Flutter project.</p>
 
-## Images
+<h2>Images</h2>
 
-First image
-![Preview](https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg)
+<p>First image</p>
+<img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg" alt="Preview of Image 1">
 
-Second image
-![Preview](https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img2.jpg)
+<p>Second image</p>
+<img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img2.jpg" alt="Preview of Image 2">
 
-## Getting Started
+<h2>Getting Started</h2>
 
-This project is a starting point for a Flutter application.
+<p>This project is a starting point for a Flutter application.</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p>A few resources to get you started if this is your first Flutter project:</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<ul>
+  <li><a href="https://docs.flutter.dev/get-started/codelab">Lab: Write your first Flutter app</a></li>
+  <li><a href="https://docs.flutter.dev/cookbook">Cookbook: Useful Flutter samples</a></li>
+</ul>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>For help getting started with Flutter development, view the <a href="https://docs.flutter.dev/">online documentation</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.</p>
