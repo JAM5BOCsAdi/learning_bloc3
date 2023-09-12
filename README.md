@@ -5,10 +5,10 @@ A new Flutter project.
 ## Images
 
 First image
-![Preview](lib\images\img1.jpg)
+![Preview](https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.jpg)
 
 Second image
-![Preview](lib\images\img2.jpg)
+![Preview](https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img2.jpg)
 
 ## Getting Started
 
