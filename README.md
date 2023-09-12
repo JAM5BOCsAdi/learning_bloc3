@@ -11,6 +11,7 @@
 <p>To get these images go inside: .../lib/images/img1.png</p>
 <p>And Copy the URL in the browser and paste it in the <i><strong>img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png"</strong></i>
 
+<!-- Text Align Center not working -->
 <div style="text-align:center;">
     <p id="img1">First image</p>
 </div>
