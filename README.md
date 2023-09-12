@@ -11,12 +11,19 @@
 <p>To get these images go inside: .../lib/images/img1.png</p>
 <p>And Copy the URL in the browser and paste it in the <i><strong>img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png"</strong></i>
 
-<p id="img1">First image</p>
+<div style="text-align:center;">
+    <p id="img1">First image</p>
+</div>
 <img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png" alt="Preview of Image 1">
-<p>Second image</p>
+
+<div style="text-align:center;">
+    <p>Second image</p>
+</div>
 <img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img2.jpg" alt="Preview of Image 2">
 
-<p>Third image</p>
+<div style="text-align:center;">
+    <p>Third image</p>
+</div>
 <img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img3.jpg" alt="Preview of Image 3">
 
 <h2>Getting Started</h2>
