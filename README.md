@@ -11,6 +11,18 @@
 <p>To get these images go inside: .../lib/images/img1.png</p>
 <p>And Copy the URL in the browser and paste it in the <i><strong>img src="https://github.com/JAM5BOCsAdi/learning_bloc3/blob/master/lib/images/img1.png"</strong></i>
 
+<h3>.gitignore help</h3>
+<p>If you pushed the files once before you set it to ignore in the "gitignore", you need to do these steps to delete file from Github repo and ignore than push again:</p>
+<p>1. Use this code to remove the file(s) from repo, that you want to ignore: git rm --cached lib/firebase_options.dart
+</p>
+<p>2. git status</p>
+<p>3. git add file_name or use .</p>
+<p>5. git commit -m "Stop tracking lib/firebase_options.dart"</p>
+<p>6. git push -u origin branch_name</p>
+
+<p>Inside gitignore write this:</p>
+<p>lib/firebase_options.dart</p>
+
 <!-- Text Align Center not working -->
 <div style="text-align:center;">
     <p id="img1">First image</p>
